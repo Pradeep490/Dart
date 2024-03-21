@@ -1,6 +1,6 @@
 +++
 title = "Basic Dart Program"
-weight = 3
+weight = 9
 description = "Learn dart language basics, create a hello world program in the dart, and learn how to make complete dart projects."
 keywords = "dart hello world program, how to create dart program, dart simple program, learn dart programming"
 +++
